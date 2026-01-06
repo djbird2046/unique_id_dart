@@ -1,0 +1,15 @@
+name: unique_id_dart
+description: Generate unique IDs in Dart using Snowflake or UUID v4.
+version: 1.0.0
+repository: https://github.com/djbird2046/unique_id_dart
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  snowflaker: ^1.1.0
+  uuid: ^4.5.2
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
