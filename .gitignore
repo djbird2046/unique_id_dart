@@ -8,6 +8,12 @@
 *.ipr
 *.iws
 
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
 # Build and tooling output
 build/
 coverage/
